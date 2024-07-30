@@ -1,5 +1,5 @@
 {
-  "name":"Manjiro-Sano-md",
+  "name":"Joshuamambo1 md",
   "description":"Lazmiii•) You have to fill in this box with thought and understanding because you won't be able to change it on WhatsApp again, okay",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/2645fb9536dad7eda6aee.jpg",
@@ -80,7 +80,7 @@
 
     "desc": "Enter your name",
     "required": true,
-    "value": "Cod3Uchiha"
+    "value": "Joshuamambo1"
   },
     "OWNER_NUMBER":
   {
@@ -109,7 +109,7 @@
   },
   "PRESENCE":{
     "description":"Enter |online| to always show the bot as online, |typing| to show 'is typing...', |recording| to show 'is recording...', or leave blank for no presence",
-    "value":"",
+    "value":"online",
     "required": false
   }  
   },
